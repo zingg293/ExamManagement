@@ -1,0 +1,582 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.WebApi\\DPD.HR.Infrastructure.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\DPD.HR.Application.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\DPD.HR.Application.Dto.csproj",
+        "projectName": "DPD.HR.Application.Dto",
+        "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\DPD.HR.Application.Dto.csproj",
+        "packagesPath": "C:\\Users\\NXC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NXC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\DPD.HR.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\DPD.HR.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Implement\\DPD.HR.Application.Implement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Implement\\DPD.HR.Application.Implement.csproj",
+        "projectName": "DPD.HR.Application.Implement",
+        "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Implement\\DPD.HR.Application.Implement.csproj",
+        "packagesPath": "C:\\Users\\NXC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Implement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NXC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\DPD.HR.Application.Dto.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\DPD.HR.Application.Dto.csproj"
+              },
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\DPD.HR.Application.Interface.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\DPD.HR.Application.Interface.csproj"
+              },
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Queries\\DPD.HR.Application.Queries.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Queries\\DPD.HR.Application.Queries.csproj"
+              },
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\DPD.HR.Application.Utilities.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\DPD.HR.Application.Utilities.csproj"
+              },
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\DPD.HR.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\DPD.HR.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.143, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0-pre06, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0-preview2.23159.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\DPD.HR.Application.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\DPD.HR.Application.Interface.csproj",
+        "projectName": "DPD.HR.Application.Interface",
+        "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\DPD.HR.Application.Interface.csproj",
+        "packagesPath": "C:\\Users\\NXC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NXC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\DPD.HR.Application.Dto.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\DPD.HR.Application.Dto.csproj"
+              },
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\DPD.HR.Application.Utilities.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\DPD.HR.Application.Utilities.csproj"
+              },
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\DPD.HR.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\DPD.HR.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Queries\\DPD.HR.Application.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Queries\\DPD.HR.Application.Queries.csproj",
+        "projectName": "DPD.HR.Application.Queries",
+        "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Queries\\DPD.HR.Application.Queries.csproj",
+        "packagesPath": "C:\\Users\\NXC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NXC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\DPD.HR.Application.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\DPD.HR.Application.Utilities.csproj",
+        "projectName": "DPD.HR.Application.Utilities",
+        "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\DPD.HR.Application.Utilities.csproj",
+        "packagesPath": "C:\\Users\\NXC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NXC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\DPD.HR.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\DPD.HR.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Infrastructure.Validation\\DPD.HR.Infrastructure.Validation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Infrastructure.Validation\\DPD.HR.Infrastructure.Validation.csproj",
+        "projectName": "DPD.HR.Infrastructure.Validation",
+        "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Infrastructure.Validation\\DPD.HR.Infrastructure.Validation.csproj",
+        "packagesPath": "C:\\Users\\NXC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Infrastructure.Validation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NXC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\DPD.HR.Application.Dto.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\DPD.HR.Application.Dto.csproj"
+              },
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\DPD.HR.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\DPD.HR.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.6.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\DPD.HR.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\DPD.HR.Domain.Core.csproj",
+        "projectName": "DPD.HR.Domain.Core",
+        "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\DPD.HR.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\NXC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NXC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.WebApi\\DPD.HR.Infrastructure.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.WebApi\\DPD.HR.Infrastructure.WebApi.csproj",
+        "projectName": "DPD.HR.Infrastructure.WebApi",
+        "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.WebApi\\DPD.HR.Infrastructure.WebApi.csproj",
+        "packagesPath": "C:\\Users\\NXC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NXC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\DPD.HR.Application.Dto.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\DPD.HR.Application.Dto.csproj"
+              },
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Implement\\DPD.HR.Application.Implement.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Implement\\DPD.HR.Application.Implement.csproj"
+              },
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\DPD.HR.Application.Interface.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\DPD.HR.Application.Interface.csproj"
+              },
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\DPD.HR.Application.Utilities.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\DPD.HR.Application.Utilities.csproj"
+              },
+              "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Infrastructure.Validation\\DPD.HR.Infrastructure.Validation.csproj": {
+                "projectPath": "C:\\Users\\NXC\\Desktop\\quanlygacthi\\BackEnd\\ExamManagement\\DPD.HR.Infrastructure.Validation\\DPD.HR.Infrastructure.Validation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.0.0-preview1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.6.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0-pre06, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.24.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

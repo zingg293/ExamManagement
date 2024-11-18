@@ -1,0 +1,12 @@
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Queries\bin\Debug\net6.0\DPD.HR.Business.Queries.deps.json
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Queries\bin\Debug\net6.0\DPD.HR.Business.Queries.dll
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Queries\bin\Debug\net6.0\DPD.HR.Business.Queries.pdb
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Queries\obj\Debug\net6.0\DPD.HR.Business.Queries.csproj.AssemblyReference.cache
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Queries\obj\Debug\net6.0\DPD.HR.Business.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Queries\obj\Debug\net6.0\DPD.HR.Business.Queries.AssemblyInfoInputs.cache
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Queries\obj\Debug\net6.0\DPD.HR.Business.Queries.AssemblyInfo.cs
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Queries\obj\Debug\net6.0\DPD.HR.Business.Queries.csproj.CoreCompileInputs.cache
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Queries\obj\Debug\net6.0\DPD.HR.Business.Queries.dll
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Queries\obj\Debug\net6.0\refint\DPD.HR.Business.Queries.dll
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Queries\obj\Debug\net6.0\DPD.HR.Business.Queries.pdb
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Queries\obj\Debug\net6.0\ref\DPD.HR.Business.Queries.dll

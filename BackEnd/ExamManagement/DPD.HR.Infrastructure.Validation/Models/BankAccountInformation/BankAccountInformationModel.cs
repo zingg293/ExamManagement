@@ -1,0 +1,17 @@
+﻿namespace DPD.HR.Infrastructure.Validation.Models.BankAccountInformation
+{
+    public class BankAccountInformationModel
+    {
+      
+            public Guid Id { get; set; }
+            public DateTime? CreatedDate { get; set; }
+            public int? Status { get; set; }
+            public string? ProvincialBank { get; set; }
+            public string? NameOfBank { get; set; }
+            public string? AccountNumber { get; set; }
+            public string? AccountHolder { get; set; }
+            public Guid IdEmployee { get; set; }
+            public bool IsDefault { get; set; }
+        
+    }
+}

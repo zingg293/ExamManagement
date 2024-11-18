@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DPD.HR.Application.Utilities/1.0.0": {
+        "dependencies": {
+          "DPD.HR.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "DPD.HR.Application.Utilities.dll": {}
+        }
+      },
+      "DPD.HR.Domain.Core/1.0.0": {
+        "runtime": {
+          "DPD.HR.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPD.HR.Application.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DPD.HR.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>DPD.HumanResources.Interface</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DPD.HR.Business.Dto\CT.EXAMM.Application.Dto.csproj" />
+      <ProjectReference Include="..\DPD.HR.Business.Utilities\CT.EXAMM.Application.Utilities.csproj" />
+      <ProjectReference Include="..\DPD.HR.Repository.Core\CT.EXAMM.Domain.Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Interfaces\IProcessStatusPromotionTranferRepository.cs" />
+    </ItemGroup>
+
+</Project>

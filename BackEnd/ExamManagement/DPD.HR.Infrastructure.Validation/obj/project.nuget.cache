@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KgYNEreqUrE=",
+  "success": true,
+  "projectFilePath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Infrastructure.Validation\\CT.EXAMM.Infrastructure.Validation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZING\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\ZING\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

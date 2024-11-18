@@ -1,0 +1,28 @@
+.anchor-link {
+  width: 100%;
+  border-radius: 8px;
+  color: #67748e !important;
+  padding: 13px 16px;
+  background-color: transparent;
+  transition: background-color 0.3s ease-in;
+  cursor: pointer;
+}
+.anchor-link:hover {
+  background-color: #f5f5f5;
+}
+.UserSetting .ant-anchor-link-title-active {
+  background-color: #f5f5f5 !important;
+  width: 100%;
+  border-radius: 8px;
+  color: #67748e !important;
+  padding: 13px 16px;
+  background-color: transparent;
+  transition: background-color 0.3s ease-in;
+  cursor: pointer;
+}
+.UserSetting .ant-anchor-ink {
+  display: none;
+}
+.UserSetting {
+  scroll-behavior: smooth;
+}

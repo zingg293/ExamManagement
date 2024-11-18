@@ -1,0 +1,102 @@
+Đề tài: Quản lý phân công lịch gác thi và chấm thi cho giảng viên 
+CÔNG NGHỆ VÀ NGÔN NGỮ SỬ DỤNG:
+.NET Core 6 Framework
+ReactJS
+NEXTJS
+TypeScript
+JavaScript
+CSDL: SQL Server
+
+CÁC CHỨC NĂNG CHÍNH:
+	ĐĂNG NHẬP - ĐĂNG XUẤT
+	1. QUẢN LÝ KÌ THI (VD: Thi cuối kì từ ngày 2/1/2024 đến ngày 20/1/2024)
+		- Tìm kiếm kì thi
+		- Thêm mới kì thi
+			- Tên
+			- Các môn thi
+			- Thời gian (bắt đầu:... - kết thúc:...)
+		- Chỉnh sửa kì thi
+		- Xóa kì thi
+		- Xuất file pdf kì thi (nếu có thể)
+	2. QUẢN LÝ LỊCH THI (Lịch thi cuối kì cho từng môn) 
+	(1 kì thi có nhiều lịch thi: Do 1 kì thi có nhiều môn thi)
+		- Tìm kiếm lịch thi
+		- Thêm mới lịch thi
+			- Tên lịch thi (Lịch thi cuối kì Toán cao cấp)
+			- Thuộc kì thi nào? 
+			- Mã môn thi (VD: LING202)
+			- Chi tiết lịch thi theo mã học phần (1 môn thi có nhiều Chi tiết lịch thi theo mã học phần: Do 1 môn có nhiều nhóm)
+				- Thời gian thi và phòng thi của từng nhóm học phần 
+				(VD: TCC.CQ.03: 7h30  60phút  3/1/2024    Phòng: I1-101 ; 
+					TCC.CQ.02: 12H30 60 phút 3/1/2024    Phòng E2-102)
+				- Số lượng sinh viên thi (VD: TCC.CQ.03: 40sv)
+		- Chỉnh sửa lịch thi
+		- Xóa lịch thi
+	3. QUẢN LÝ HỌC PHẦN THI
+		- Tìm kiếm học phần
+		- Thêm mới học phần
+			- Mã học phần (LING202)
+			- Tên học phần (Toán rời rạc)
+			- Nhóm học phần (Toán cao cấp: TCC.CQ.03)
+		- Chỉnh sửa học phần
+		- Xóa môn
+	4. QUẢN LÝ PHÒNG THI
+		- Thêm mới phòng thi
+			- Tên phòng
+		- Chỉnh sửa phòng thi
+		- Xóa phòng thi
+	4. QUẢN LÝ LỊCH GÁC THI
+		- Thêm mới lịch gác thi
+			- Tên lịch thi (VD: Lịch thi cuối kì Toán cao cấp)
+			- Thời gian gác thi (VD: Từ ngày 2/1/2024 đến ngày 20/1/2024)
+			- Chi tiết gác thi: (1 lịch gác thi có nhiều chi tiết gác thi: Do 1 môn đó có nhiều nhóm học phần)
+				- Mã nhóm học phần thi (nhập TCC.CQ.03 trả về chi tiết lịch thi của mã học phần thi đó ở trên lịch thi)
+				- Giảng viên gác thi
+		- Chỉnh sửa lịch gác thi
+		- Xóa lịch gác thi
+	5. QUẢN LÝ LỊCH CHẤM THI
+		- Thêm mới lịch chấm thi
+			- Tên lịch chấm thi (VD: Chấm thi cuối kì Toán cao cấp)
+			- Thuộc lịch thi nào
+			- Thuộc kì thi nào
+			- Giảng viên chấm thi
+			- Thời gian chấm thi 
+		- Chỉnh sửa lịch chấm thi
+		- Xóa lịch chấm thi
+	6. QUẢN LÝ TÀI KHOẢN 
+		- Thêm mới giảng viên
+			- Mã giảng viên
+			- Họ và tên
+			- Gmail
+			- Giới tính
+			- Số điện thoại
+			- Thuộc khoa viện nào
+		- Chỉnh sửa tài khoản giảng viên
+			- Cấp quyền xem các chức năng
+		- Xóa tài khoản
+	7. QUẢN LÝ KHOA VIỆN
+		- Thêm mới khoa viện
+			- Tên khoa viện
+		- Chỉnh sửa khoa viện
+		- Xóa khoa viện
+		
+- Hình thức thi
+- Thống kê 
+		
+- Xác định bao nhiêu actor, usecase
+Các bước để thực hiện đề tài Quản lý lịch gác thi và chấm thi cho giảng viên
+1. Khảo sát các phần mềm hiện có trên thị trường với chức năng tương tự
+2. Liệt kê hết tất cả các chức năng cần xây dựng cho phần mềm
+3. Lập tài liệu phân tích thiết kế hệ thống và đặc tả yêu cầu
+	3.1. Xác định các actor và usecase trong hệ thống
+	3.2. Phân rã các chức năng theo từng actor
+	3.3. Xây dựng bảng chuyển đổi chức năng sang trường hợp sử dụng (usecase)
+	3.4. Biểu diễn các chức năng theo sơ đồ usecase
+	3.5. Xây dựng biểu đồ tuần tự và biểu đồ hoạt động cho các chức năng
+	3.6. Xây dựng các hàm để thực hiện các chức năng (option - có thể làm hoặc ko)
+4. Phân tích thiết kế CSDL 
+5. Lựa chọn công nghệ và mô hình để xây dựng phần mềm (xây dựng theo mô hình microservice, web application)
+6. Xây dựng BE, Xây dựng FE và thiết kế giao diện
+7. Kiểm thử và sửa lỗi
+8. Nghiệm thu 
+	

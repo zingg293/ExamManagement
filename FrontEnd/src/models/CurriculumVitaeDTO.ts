@@ -1,0 +1,35 @@
+export default interface CurriculumVitaeDTO {
+  id: string;
+  createdDate: Date | null;
+  status: number | null;
+  idEmployee: string;
+  socialSecurityNumber: string | null;
+  anotherName: string | null;
+  citizenCardNumber: string | null;
+  citizenCardFile: string | null;
+  religion: string | null;
+  ethnicity: string | null;
+  idNationality: string;
+  placeOfBirth: string | null;
+  award: string | null;
+  disabledVeteranRank: string | null;
+  healthStatus: string | null;
+  idPolicyBeneficiary: string | null;
+  height: number | null;
+  weight: number | null;
+  bloodType: number | null;
+  idProfessionalQualification: string | null;
+  politicalReasoning: number | null;
+  idGovernmentManagement: string | null;
+  governmentAward: string | null;
+  disciplinaryAction: string | null;
+  profession: string | null;
+  primaryJob: string | null;
+  forteOfWork: string | null;
+  titleConcurrent: string | null;
+  specializedProfessionalQualifications: string | null;
+  academicDegree: string | null;
+  academicDegreeDate: Date | null;
+  governmentOfficialNumber: string | null;
+  generalEducationLevel: number | null;
+}

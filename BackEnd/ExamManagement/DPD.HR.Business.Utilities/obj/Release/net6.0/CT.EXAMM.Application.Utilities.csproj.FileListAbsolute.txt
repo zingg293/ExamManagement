@@ -1,0 +1,15 @@
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\bin\Release\net6.0\CT.EXAMM.Application.Utilities.deps.json
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\bin\Release\net6.0\CT.EXAMM.Application.Utilities.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\bin\Release\net6.0\CT.EXAMM.Application.Utilities.pdb
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\bin\Release\net6.0\CT.EXAMM.Domain.Core.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\bin\Release\net6.0\CT.EXAMM.Domain.Core.pdb
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\obj\Release\net6.0\CT.EXAMM.Application.Utilities.csproj.AssemblyReference.cache
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\obj\Release\net6.0\CT.EXAMM.Application.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\obj\Release\net6.0\CT.EXAMM.Application.Utilities.AssemblyInfoInputs.cache
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\obj\Release\net6.0\CT.EXAMM.Application.Utilities.AssemblyInfo.cs
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\obj\Release\net6.0\CT.EXAMM.Application.Utilities.csproj.CoreCompileInputs.cache
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\obj\Release\net6.0\CT.EXAMM.Application.Utilities.csproj.CopyComplete
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\obj\Release\net6.0\CT.EXAMM.Application.Utilities.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\obj\Release\net6.0\refint\CT.EXAMM.Application.Utilities.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\obj\Release\net6.0\CT.EXAMM.Application.Utilities.pdb
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Utilities\obj\Release\net6.0\ref\CT.EXAMM.Application.Utilities.dll

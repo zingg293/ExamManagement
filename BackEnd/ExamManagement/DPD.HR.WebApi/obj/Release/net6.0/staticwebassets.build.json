@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FqsSTv4W0apNRT9WUxAEcxFnp35nwVCGDQxm63C1MPU=",
+  "Source": "CT.EXAMM.Infrastructure.WebApi",
+  "BasePath": "_content/CT.EXAMM.Infrastructure.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

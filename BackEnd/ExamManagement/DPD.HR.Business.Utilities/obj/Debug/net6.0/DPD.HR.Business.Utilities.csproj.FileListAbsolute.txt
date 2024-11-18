@@ -1,0 +1,12 @@
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Utilities\bin\Debug\net6.0\DPD.HR.Business.Utilities.deps.json
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Utilities\bin\Debug\net6.0\DPD.HR.Business.Utilities.dll
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Utilities\bin\Debug\net6.0\DPD.HR.Business.Utilities.pdb
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Utilities\obj\Debug\net6.0\DPD.HR.Business.Utilities.csproj.AssemblyReference.cache
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Utilities\obj\Debug\net6.0\DPD.HR.Business.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Utilities\obj\Debug\net6.0\DPD.HR.Business.Utilities.AssemblyInfoInputs.cache
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Utilities\obj\Debug\net6.0\DPD.HR.Business.Utilities.AssemblyInfo.cs
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Utilities\obj\Debug\net6.0\DPD.HR.Business.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Utilities\obj\Debug\net6.0\DPD.HR.Business.Utilities.dll
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Utilities\obj\Debug\net6.0\refint\DPD.HR.Business.Utilities.dll
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Utilities\obj\Debug\net6.0\DPD.HR.Business.Utilities.pdb
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Business.Utilities\obj\Debug\net6.0\ref\DPD.HR.Business.Utilities.dll

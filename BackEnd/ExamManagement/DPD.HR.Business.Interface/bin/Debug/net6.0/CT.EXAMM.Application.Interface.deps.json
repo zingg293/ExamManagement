@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CT.EXAMM.Application.Interface/1.0.0": {
+        "dependencies": {
+          "CT.EXAMM.Application.Dto": "1.0.0",
+          "CT.EXAMM.Application.Utilities": "1.0.0",
+          "CT.EXAMM.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "CT.EXAMM.Application.Interface.dll": {}
+        }
+      },
+      "CT.EXAMM.Application.Dto/1.0.0": {
+        "dependencies": {
+          "CT.EXAMM.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "CT.EXAMM.Application.Dto.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CT.EXAMM.Application.Utilities/1.0.0": {
+        "dependencies": {
+          "CT.EXAMM.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "CT.EXAMM.Application.Utilities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CT.EXAMM.Domain.Core/1.0.0": {
+        "runtime": {
+          "CT.EXAMM.Domain.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CT.EXAMM.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CT.EXAMM.Application.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CT.EXAMM.Application.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CT.EXAMM.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

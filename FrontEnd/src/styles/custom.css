@@ -1,0 +1,9 @@
+.ant-steps-item-title {
+  font-weight: 600 !important;
+}
+.ant-steps-item-process .ant-steps-item-title {
+  color: #15d4ed !important;
+}
+.ant-steps-item-finish .ant-steps-item-title {
+  color: #74e11d !important;
+}

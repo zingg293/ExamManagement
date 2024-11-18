@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CT.EXAMM.Infrastructure.WebApi.props" />
+</Project>

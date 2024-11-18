@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DPD.HR.Infrastructure.WebApi.props" />
+</Project>

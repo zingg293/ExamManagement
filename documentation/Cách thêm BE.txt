@@ -1,0 +1,23 @@
+Bước 1
+- Cách chuyển từ CSDL lên thành class BE
+script -> create -> clipboard
+gpt -> chuyển thành class C#.net + ctrl V
+- Entiti(1)
+add -> newitem -> Tên kiểu lạc đà, viết hoa chữ đầu -> add
+Chuyển class thành public -> cop bên gpt qua
+Có dấu ? là null
+
+- Dto (2) 
+add -> newitem -> Tên kiểu lạc đà, viết hoa chữ đầu -> add
+Chuyển class thành public
+Có dấu ? là null
+
+-  Model
+Tạo folder -> add -> newitem....
+Chuyển class thành public
+Có dấu ? là null
+Bước 2
+Thêm Repositories (trong đó nhớ thêm UnitOfWork) 
+Interface (trong đó nhớ thêm UnitOfWork)-> Implement phải kế thừa interface
+(trong đó nhớ thêm UnitOfWork + Service....) 
+-> Queri -> Controller -> TEST

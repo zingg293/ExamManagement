@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DPD.HR.Business.Utilities/1.0.0": {
+        "runtime": {
+          "DPD.HR.Business.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPD.HR.Business.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\ProjectsDPD\hr\BackEnd\HumanResources\DPD.HR.Kernel\bin\Debug\net6.0\DPD.HR.Kernel.deps.json
+C:\ProjectsDPD\hr\BackEnd\HumanResources\DPD.HR.Kernel\bin\Debug\net6.0\DPD.HR.Kernel.dll
+C:\ProjectsDPD\hr\BackEnd\HumanResources\DPD.HR.Kernel\bin\Debug\net6.0\DPD.HR.Kernel.pdb
+C:\ProjectsDPD\hr\BackEnd\HumanResources\DPD.HR.Kernel\obj\Debug\net6.0\DPD.HR.Kernel.csproj.AssemblyReference.cache
+C:\ProjectsDPD\hr\BackEnd\HumanResources\DPD.HR.Kernel\obj\Debug\net6.0\DPD.HR.Kernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsDPD\hr\BackEnd\HumanResources\DPD.HR.Kernel\obj\Debug\net6.0\DPD.HR.Kernel.AssemblyInfoInputs.cache
+C:\ProjectsDPD\hr\BackEnd\HumanResources\DPD.HR.Kernel\obj\Debug\net6.0\DPD.HR.Kernel.AssemblyInfo.cs
+C:\ProjectsDPD\hr\BackEnd\HumanResources\DPD.HR.Kernel\obj\Debug\net6.0\DPD.HR.Kernel.csproj.CoreCompileInputs.cache
+C:\ProjectsDPD\hr\BackEnd\HumanResources\DPD.HR.Kernel\obj\Debug\net6.0\DPD.HR.Kernel.dll
+C:\ProjectsDPD\hr\BackEnd\HumanResources\DPD.HR.Kernel\obj\Debug\net6.0\refint\DPD.HR.Kernel.dll
+C:\ProjectsDPD\hr\BackEnd\HumanResources\DPD.HR.Kernel\obj\Debug\net6.0\DPD.HR.Kernel.pdb
+C:\ProjectsDPD\hr\BackEnd\HumanResources\DPD.HR.Kernel\obj\Debug\net6.0\ref\DPD.HR.Kernel.dll

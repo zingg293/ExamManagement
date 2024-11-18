@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CT.EXAMM.Application.Utilities/1.0.0": {
+        "dependencies": {
+          "CT.EXAMM.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "CT.EXAMM.Application.Utilities.dll": {}
+        }
+      },
+      "CT.EXAMM.Domain.Core/1.0.0": {
+        "runtime": {
+          "CT.EXAMM.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CT.EXAMM.Application.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CT.EXAMM.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

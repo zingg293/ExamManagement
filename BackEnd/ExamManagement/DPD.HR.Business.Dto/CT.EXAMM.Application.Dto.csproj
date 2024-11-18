@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>DPD.HumanResources.Dtos</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DPD.HR.Repository.Core\CT.EXAMM.Domain.Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Dto\ProcessStatusPromotionTranferDto.cs" />
+      <Compile Remove="Dto\ProcessStatusOnLeaveDto.cs" />
+      <Compile Remove="Dto\ProcessStatusOvertimeDto.cs" />
+    </ItemGroup>
+
+</Project>

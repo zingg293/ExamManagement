@@ -1,0 +1,27 @@
+.sidebar {
+  position: relative;
+  height: 100%;
+}
+.a {
+  position: absolute;
+  bottom: 4%;
+  width: 118%;
+  height: 30px;
+  margin-left: -18px;
+  text-align: center;
+}
+.btn-a {
+  cursor: pointer;
+  width: 80%;
+  height: 40px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 16px;
+  line-height: 30px;
+  text-decoration: none;
+  box-shadow: 0 0 10px #ccc;
+}
+.ant-menu-item {
+  padding: 0 !important;
+}

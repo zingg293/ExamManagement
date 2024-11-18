@@ -1,0 +1,7 @@
+1 ngày 2 ca, cho thời gian, học kì
+quản trị: chọn ngày thi, ca thi bao nhiêu phút, môn thi, phòng thi, 1 phòng bao nhiêu người, tự động random người gác
+(phần random có thể chỉnh sửa)
+quản trị thiết lập 1 ca bao nhiêu người, 1 người bao nhiêu ca gác tối đa
+xuất cảnh báo nếu quá ca nhưng vẫn cho gác
+Giảng viên: xem bảng lịch gác thi đc quản trị xếp cho
+Thanh tra: Có chức năng xem lịch và ca gác thi của giảng viên, có note để ghi chú lại

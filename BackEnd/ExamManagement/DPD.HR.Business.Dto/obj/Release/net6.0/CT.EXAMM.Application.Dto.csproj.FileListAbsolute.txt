@@ -1,0 +1,15 @@
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\bin\Release\net6.0\CT.EXAMM.Application.Dto.deps.json
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\bin\Release\net6.0\CT.EXAMM.Application.Dto.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\bin\Release\net6.0\CT.EXAMM.Application.Dto.pdb
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\bin\Release\net6.0\CT.EXAMM.Domain.Core.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\bin\Release\net6.0\CT.EXAMM.Domain.Core.pdb
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\obj\Release\net6.0\CT.EXAMM.Application.Dto.csproj.AssemblyReference.cache
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\obj\Release\net6.0\CT.EXAMM.Application.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\obj\Release\net6.0\CT.EXAMM.Application.Dto.AssemblyInfoInputs.cache
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\obj\Release\net6.0\CT.EXAMM.Application.Dto.AssemblyInfo.cs
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\obj\Release\net6.0\CT.EXAMM.Application.Dto.csproj.CoreCompileInputs.cache
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\obj\Release\net6.0\CT.EXAMM.Application.Dto.csproj.CopyComplete
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\obj\Release\net6.0\CT.EXAMM.Application.Dto.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\obj\Release\net6.0\refint\CT.EXAMM.Application.Dto.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\obj\Release\net6.0\CT.EXAMM.Application.Dto.pdb
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Dto\obj\Release\net6.0\ref\CT.EXAMM.Application.Dto.dll

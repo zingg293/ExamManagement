@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>DPD.HumanResources.Entities</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Entities\ProcessStatusOvertime.cs" />
+      <Compile Remove="Entities\ProcessStatusResign.cs" />
+    </ItemGroup>
+
+</Project>

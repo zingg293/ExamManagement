@@ -1,0 +1,91 @@
+@keyframes ldio-2lmf8usel4z-1 {
+  0% {
+    top: 27px;
+    height: 96px;
+  }
+  50% {
+    top: 45px;
+    height: 60px;
+  }
+  100% {
+    top: 45px;
+    height: 60px;
+  }
+}
+
+@keyframes ldio-2lmf8usel4z-2 {
+  0% {
+    top: 31.499999999999993px;
+    height: 87.00000000000001px;
+  }
+  50% {
+    top: 45px;
+    height: 60px;
+  }
+  100% {
+    top: 45px;
+    height: 60px;
+  }
+}
+
+@keyframes ldio-2lmf8usel4z-3 {
+  0% {
+    top: 36px;
+    height: 78px;
+  }
+  50% {
+    top: 45px;
+    height: 60px;
+  }
+  100% {
+    top: 45px;
+    height: 60px;
+  }
+}
+
+.ldio-2lmf8usel4z div {
+  position: absolute;
+  width: 22.5px;
+}
+
+.ldio-2lmf8usel4z div:nth-child(1) {
+  left: 26.25px;
+  background: #e00000;
+  animation: ldio-2lmf8usel4z-1 1s cubic-bezier(0, 0.5, 0.5, 1) infinite;
+  animation-delay: -0.2s;
+}
+
+.ldio-2lmf8usel4z div:nth-child(2) {
+  left: 63.75px;
+  background: #e00000;
+  animation: ldio-2lmf8usel4z-2 1s cubic-bezier(0, 0.5, 0.5, 1) infinite;
+  animation-delay: -0.1s;
+}
+
+.ldio-2lmf8usel4z div:nth-child(3) {
+  left: 101.25px;
+  background: #0d347f;
+  animation: ldio-2lmf8usel4z-3 1s cubic-bezier(0, 0.5, 0.5, 1) infinite;
+  animation-delay: undefineds;
+}
+
+.loadingio-spinner-pulse-sakbxvum4wi {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  overflow: hidden;
+  background: none;
+}
+
+.ldio-2lmf8usel4z {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform: translateZ(0) scale(1);
+  backface-visibility: hidden;
+  transform-origin: 0 0; /* see note above */
+}
+
+.ldio-2lmf8usel4z div {
+  box-sizing: content-box;
+}

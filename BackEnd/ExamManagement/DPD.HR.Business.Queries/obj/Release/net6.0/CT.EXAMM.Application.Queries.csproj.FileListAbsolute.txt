@@ -1,0 +1,11 @@
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Queries\bin\Release\net6.0\CT.EXAMM.Application.Queries.deps.json
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Queries\bin\Release\net6.0\CT.EXAMM.Application.Queries.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Queries\bin\Release\net6.0\CT.EXAMM.Application.Queries.pdb
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Queries\obj\Release\net6.0\CT.EXAMM.Application.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Queries\obj\Release\net6.0\CT.EXAMM.Application.Queries.AssemblyInfoInputs.cache
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Queries\obj\Release\net6.0\CT.EXAMM.Application.Queries.AssemblyInfo.cs
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Queries\obj\Release\net6.0\CT.EXAMM.Application.Queries.csproj.CoreCompileInputs.cache
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Queries\obj\Release\net6.0\CT.EXAMM.Application.Queries.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Queries\obj\Release\net6.0\refint\CT.EXAMM.Application.Queries.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Queries\obj\Release\net6.0\CT.EXAMM.Application.Queries.pdb
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Business.Queries\obj\Release\net6.0\ref\CT.EXAMM.Application.Queries.dll

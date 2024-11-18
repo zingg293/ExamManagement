@@ -1,0 +1,11 @@
+	Chuyển CSDL LÊN FE:
+1. Thêm trong service
+2. Thêm trong DTO
+	Để thêm 1 menu mới theo các bước như sau:
+1. Thêm trong bảng Navigation
+2. Thêm component tương ứng trên FE
+2.1. Khai báo đường dẫn cho feature mới trong folder  Routes, file Admin.tsx
+2.2. Khai báo trong file ListComponentLazy.ts trong folder  Routes
+2.3. Thêm trong store (src/app/store)
+2.4. Khai báo component trong feature, thêm index
+3. Cấp quyền cho admin thấy chức năng đó

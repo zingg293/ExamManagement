@@ -1,0 +1,727 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\Test_Project\\Test_Project.csproj": {}
+  },
+  "projects": {
+    "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\CT.EXAMM.Application.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\CT.EXAMM.Application.Dto.csproj",
+        "projectName": "CT.EXAMM.Application.Dto",
+        "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\CT.EXAMM.Application.Dto.csproj",
+        "packagesPath": "C:\\Users\\ZING\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Implement\\CT.EXAMM.Application.Implement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Implement\\CT.EXAMM.Application.Implement.csproj",
+        "projectName": "CT.EXAMM.Application.Implement",
+        "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Implement\\CT.EXAMM.Application.Implement.csproj",
+        "packagesPath": "C:\\Users\\ZING\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Implement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\CT.EXAMM.Application.Dto.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\CT.EXAMM.Application.Dto.csproj"
+              },
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\CT.EXAMM.Application.Interface.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\CT.EXAMM.Application.Interface.csproj"
+              },
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Queries\\CT.EXAMM.Application.Queries.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Queries\\CT.EXAMM.Application.Queries.csproj"
+              },
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\CT.EXAMM.Application.Utilities.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\CT.EXAMM.Application.Utilities.csproj"
+              },
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.143, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0-pre06, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0-preview2.23159.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\CT.EXAMM.Application.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\CT.EXAMM.Application.Interface.csproj",
+        "projectName": "CT.EXAMM.Application.Interface",
+        "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\CT.EXAMM.Application.Interface.csproj",
+        "packagesPath": "C:\\Users\\ZING\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\CT.EXAMM.Application.Dto.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\CT.EXAMM.Application.Dto.csproj"
+              },
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\CT.EXAMM.Application.Utilities.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\CT.EXAMM.Application.Utilities.csproj"
+              },
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Queries\\CT.EXAMM.Application.Queries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Queries\\CT.EXAMM.Application.Queries.csproj",
+        "projectName": "CT.EXAMM.Application.Queries",
+        "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Queries\\CT.EXAMM.Application.Queries.csproj",
+        "packagesPath": "C:\\Users\\ZING\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Queries\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\CT.EXAMM.Application.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\CT.EXAMM.Application.Utilities.csproj",
+        "projectName": "CT.EXAMM.Application.Utilities",
+        "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\CT.EXAMM.Application.Utilities.csproj",
+        "packagesPath": "C:\\Users\\ZING\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Infrastructure.Validation\\CT.EXAMM.Infrastructure.Validation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Infrastructure.Validation\\CT.EXAMM.Infrastructure.Validation.csproj",
+        "projectName": "CT.EXAMM.Infrastructure.Validation",
+        "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Infrastructure.Validation\\CT.EXAMM.Infrastructure.Validation.csproj",
+        "packagesPath": "C:\\Users\\ZING\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Infrastructure.Validation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\CT.EXAMM.Application.Dto.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\CT.EXAMM.Application.Dto.csproj"
+              },
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.6.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj",
+        "projectName": "CT.EXAMM.Domain.Core",
+        "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\ZING\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.WebApi\\CT.EXAMM.Infrastructure.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.WebApi\\CT.EXAMM.Infrastructure.WebApi.csproj",
+        "projectName": "CT.EXAMM.Infrastructure.WebApi",
+        "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.WebApi\\CT.EXAMM.Infrastructure.WebApi.csproj",
+        "packagesPath": "C:\\Users\\ZING\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\CT.EXAMM.Application.Dto.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Dto\\CT.EXAMM.Application.Dto.csproj"
+              },
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Implement\\CT.EXAMM.Application.Implement.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Implement\\CT.EXAMM.Application.Implement.csproj"
+              },
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\CT.EXAMM.Application.Interface.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\CT.EXAMM.Application.Interface.csproj"
+              },
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\CT.EXAMM.Application.Utilities.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Utilities\\CT.EXAMM.Application.Utilities.csproj"
+              },
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Infrastructure.Validation\\CT.EXAMM.Infrastructure.Validation.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Infrastructure.Validation\\CT.EXAMM.Infrastructure.Validation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.0.0-preview1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.6.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0-pre06, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.24.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\Test_Project\\Test_Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\Test_Project\\Test_Project.csproj",
+        "projectName": "Test_Project",
+        "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\Test_Project\\Test_Project.csproj",
+        "packagesPath": "C:\\Users\\ZING\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\Test_Project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\CT.EXAMM.Application.Interface.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Business.Interface\\CT.EXAMM.Application.Interface.csproj"
+              },
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.Repository.Core\\CT.EXAMM.Domain.Core.csproj"
+              },
+              "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.WebApi\\CT.EXAMM.Infrastructure.WebApi.csproj": {
+                "projectPath": "D:\\Study\\BaoCaoTotNghiep\\exammanagement_zing\\BackEnd\\ExamManagement\\DPD.HR.WebApi\\CT.EXAMM.Infrastructure.WebApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

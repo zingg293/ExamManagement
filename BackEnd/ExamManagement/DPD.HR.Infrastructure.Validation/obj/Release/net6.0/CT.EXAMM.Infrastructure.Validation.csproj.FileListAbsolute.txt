@@ -1,0 +1,17 @@
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\bin\Release\net6.0\CT.EXAMM.Infrastructure.Validation.deps.json
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\bin\Release\net6.0\CT.EXAMM.Infrastructure.Validation.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\bin\Release\net6.0\CT.EXAMM.Infrastructure.Validation.pdb
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\bin\Release\net6.0\CT.EXAMM.Application.Dto.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\bin\Release\net6.0\CT.EXAMM.Domain.Core.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\bin\Release\net6.0\CT.EXAMM.Application.Dto.pdb
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\bin\Release\net6.0\CT.EXAMM.Domain.Core.pdb
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\obj\Release\net6.0\CT.EXAMM.Infrastructure.Validation.csproj.AssemblyReference.cache
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\obj\Release\net6.0\CT.EXAMM.Infrastructure.Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\obj\Release\net6.0\CT.EXAMM.Infrastructure.Validation.AssemblyInfoInputs.cache
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\obj\Release\net6.0\CT.EXAMM.Infrastructure.Validation.AssemblyInfo.cs
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\obj\Release\net6.0\CT.EXAMM.Infrastructure.Validation.csproj.CoreCompileInputs.cache
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\obj\Release\net6.0\CT.EXAMM.Infrastructure.Validation.csproj.CopyComplete
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\obj\Release\net6.0\CT.EXAMM.Infrastructure.Validation.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\obj\Release\net6.0\refint\CT.EXAMM.Infrastructure.Validation.dll
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\obj\Release\net6.0\CT.EXAMM.Infrastructure.Validation.pdb
+C:\2.Study\DoAnChuyenNganh\quanlygacthi\BackEnd\ExamManagement\DPD.HR.Infrastructure.Validation\obj\Release\net6.0\ref\CT.EXAMM.Infrastructure.Validation.dll

@@ -1,0 +1,12 @@
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Repository.Entities\bin\Debug\net6.0\DPD.HR.Repository.Entities.deps.json
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Repository.Entities\bin\Debug\net6.0\DPD.HR.Repository.Entities.dll
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Repository.Entities\bin\Debug\net6.0\DPD.HR.Repository.Entities.pdb
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Repository.Entities\obj\Debug\net6.0\DPD.HR.Repository.Entities.csproj.AssemblyReference.cache
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Repository.Entities\obj\Debug\net6.0\DPD.HR.Repository.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Repository.Entities\obj\Debug\net6.0\DPD.HR.Repository.Entities.AssemblyInfoInputs.cache
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Repository.Entities\obj\Debug\net6.0\DPD.HR.Repository.Entities.AssemblyInfo.cs
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Repository.Entities\obj\Debug\net6.0\DPD.HR.Repository.Entities.csproj.CoreCompileInputs.cache
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Repository.Entities\obj\Debug\net6.0\DPD.HR.Repository.Entities.dll
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Repository.Entities\obj\Debug\net6.0\refint\DPD.HR.Repository.Entities.dll
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Repository.Entities\obj\Debug\net6.0\DPD.HR.Repository.Entities.pdb
+C:\Users\khanhzu\Desktop\hr\BackEnd\HumanResources\DPD.HR.Repository.Entities\obj\Debug\net6.0\ref\DPD.HR.Repository.Entities.dll

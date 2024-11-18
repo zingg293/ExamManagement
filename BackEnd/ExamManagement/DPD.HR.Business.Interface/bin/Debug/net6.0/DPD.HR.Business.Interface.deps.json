@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DPD.HR.Business.Interface/1.0.0": {
+        "dependencies": {
+          "DPD.HR.Business.Dto": "1.0.0",
+          "DPD.HR.Business.Utilities": "1.0.0",
+          "DPD.HR.Repository.Core": "1.0.0"
+        },
+        "runtime": {
+          "DPD.HR.Business.Interface.dll": {}
+        }
+      },
+      "DPD.HR.Business.Dto/1.0.0": {
+        "runtime": {
+          "DPD.HR.Business.Dto.dll": {}
+        }
+      },
+      "DPD.HR.Business.Utilities/1.0.0": {
+        "runtime": {
+          "DPD.HR.Business.Utilities.dll": {}
+        }
+      },
+      "DPD.HR.Repository.Core/1.0.0": {
+        "runtime": {
+          "DPD.HR.Repository.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPD.HR.Business.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DPD.HR.Business.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DPD.HR.Business.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DPD.HR.Repository.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
